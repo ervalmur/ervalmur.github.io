@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ervalmur.github.io/sitemap
+Sitemap: https://ervalmur.github.io/app/sitemap
+Sitemap: https://ervalmur.github.io/assets/sitemap
+Sitemap: https://ervalmur.github.io/css/sitemap
+Sitemap: https://ervalmur.github.io/includes/sitemap
+Sitemap: https://ervalmur.github.io/item/sitemap
+Sitemap: https://ervalmur.github.io/src/sitemap
